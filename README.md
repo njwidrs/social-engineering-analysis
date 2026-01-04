@@ -1,4 +1,3 @@
-# social-engineering-analysis
 # Social Engineering – Phishing Analysis Exercises
 
 ## Student Information
