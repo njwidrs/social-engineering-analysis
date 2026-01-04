@@ -2,7 +2,7 @@
 
 ## Student Information
 - Name: Nurul Najwa
-- Course: (Your course name)
+- Course: IKB21403 - Vulnerability Analysis
 - Topic: Social Engineering – Phishing Analysis
 - Platform: GitHub
 
